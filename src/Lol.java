@@ -3,4 +3,5 @@ public class Lol {
     ramy
     raphael
     bryann
+    Fanny
 }
